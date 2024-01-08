@@ -1,0 +1,2 @@
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day2\UnitTestProject\ConsoleAppUserApp\obj\Debug\ConsoleAppUserApp.csproj.AssemblyReference.cache
+C:\Users\Ashwitha\Desktop\Assignment\AssignmentPhase4\P4Day2\UnitTestProject\ConsoleAppUserApp\obj\Debug\ConsoleAppUserApp.csproj.CoreCompileInputs.cache
